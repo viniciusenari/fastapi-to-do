@@ -20,6 +20,8 @@ black = "^23.1.0"
 pytest = "^7.2.2"
 pytest-cov = "^4.0.0"
 pytest-env = "^0.8.1"
+pytest-mock = "^3.10.0"
+httpx = "^0.23.3"
 
 [build-system]
 requires = ["poetry-core"]
