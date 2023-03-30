@@ -48,7 +48,7 @@ uvicorn main:app --reload
 
 ## Usage
 
-You can find the API documentation at http://localhost:8000/docs.
+With the API running locally, you can find the API documentation at http://localhost:8000/docs or http://localhost:8000/redoc.
 
 ## Tests
 
